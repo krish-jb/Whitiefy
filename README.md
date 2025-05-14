@@ -13,3 +13,5 @@ background: "white";
 ## Persistant data store
 
 Whitiefy remember websites once marked! Click on the extension icon again to unmark.
+
+Font used in logo `Palatino Linotype`
