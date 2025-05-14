@@ -28,5 +28,11 @@
          "matches": ["<all_urls>"],
          "js": ["whitiefy.js"]
       }
-   ]
+   ],
+
+   "browser_specific_settings": {
+      "gecko": {
+         "id": "whitiefy@TheBattleDog.ass"
+      }
+   }
 }
