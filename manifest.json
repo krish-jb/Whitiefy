@@ -6,7 +6,8 @@
    "description": "Makes the background of a webpage white!",
 
    "icons": {
-      "48": "icons/icon.png"
+      "48": "icons/icon.svg",
+      "96": "icons/icon.svg"
    },
 
    "permissions": ["tabs", "activeTab", "storage"],

@@ -6,7 +6,6 @@ browser.runtime.onMessage.addListener((msg) => {
    } else if (msg.action === "resetBackground") {
       document.body.style.background = default_background_value;
    }
-   //return;
 });
 
 browser.storage.local.get("markedSites").then(async ({ markedSites = [] }) => {
