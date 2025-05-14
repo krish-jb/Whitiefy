@@ -5,6 +5,8 @@
 
    "description": "Makes the background of a webpage white!",
 
+   "homepage_url": "https://github.com/krish-jb/Whitiefy",
+
    "icons": {
       "48": "icons/icon.svg",
       "96": "icons/icon.svg"
