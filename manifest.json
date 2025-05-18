@@ -9,7 +9,12 @@
 
    "icons": {
       "16": "icons/icon.svg",
-      "32": "icons/icon.svg"
+      "32": "icons/icon.svg",
+      "64": "icons/icon.svg",
+      "48": "icons/icon.svg",
+      "96": "icons/icon.svg",
+      "128": "icons/icon.svg",
+      "256": "icons/icon.svg"
    },
 
    "permissions": ["tabs", "activeTab", "storage"],
@@ -22,7 +27,12 @@
    "browser_action": {
       "default_icon": {
          "16": "icons/icon.svg",
-         "32": "icons/icon.svg"
+         "32": "icons/icon.svg",
+         "64": "icons/icon.svg",
+         "48": "icons/icon.svg",
+         "96": "icons/icon.svg",
+         "128": "icons/icon.svg",
+         "256": "icons/icon.svg"
       },
       "default_title": "Whitiefy"
    },
